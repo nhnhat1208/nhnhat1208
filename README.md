@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @nhnhat1208
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently learning Django REST
-
-<!---
-nhnhat1208/nhnhat1208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Software Engineer passionate about Java and Go
+- ⚡ Experienced in data processing, integrations, workflow automation, and geospatial systems
+- 🚀 Interested in system design, scalability, and reliable system operations
